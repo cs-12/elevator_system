@@ -1,3 +1,4 @@
+
 # Elevator-System-django
 
 A challenge to implement the business logic for a simplified elevator model in Python. It decides whether the elevator should go up, go down, or stop. An elevator system, which can be initialised with N elevators and maintains the elevator states as well.
@@ -25,4 +26,6 @@ python manage.py migrate
 5-Run the development server
 
 python manage.py runerver 0.0.0.0:8000
+
+
 
